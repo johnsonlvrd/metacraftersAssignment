@@ -1,4 +1,4 @@
-#LVRDCOIN
+# LVRDCOIN
 
 A simple blockchain currency with functionality for minting and burning
 
